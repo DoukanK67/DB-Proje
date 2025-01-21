@@ -1,0 +1,223 @@
+﻿@model SmartCourseSelectorWeb.Models.Student
+@{
+    ViewData["Title"] = "Student Courses";
+}
+
+<style>
+    body {
+        font-family: 'Arial', sans-serif;
+        background-color: #f7f9fc;
+        color: #333;
+    }
+
+    .container {
+        max-width: 900px;
+        margin: 30px auto;
+        padding: 20px;
+        background-color: #ffffff;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        border-radius: 8px;
+    }
+
+    h2, h4 {
+        color: #2c3e50;
+    }
+
+    p {
+        font-size: 16px;
+        color: #444;
+    }
+
+    strong {
+        color: #2c3e50;
+    }
+
+    .alert {
+        background-color: #fdebd0;
+        color: #a94442;
+        padding: 10px;
+        border-radius: 5px;
+        border: 1px solid #ebccd1;
+        margin-bottom: 20px;
+    }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+
+    th {
+        background-color: #3498db;
+        color: white;
+        padding: 12px;
+        text-align: left;
+    }
+
+    td {
+        padding: 10px;
+        border: 1px solid #ddd;
+    }
+
+    tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    tr:hover {
+        background-color: #e0f7fa;
+    }
+
+    .form-group {
+        margin-top: 20px;
+        text-align: right;
+    }
+
+    .btn {
+        background-color: #3498db;
+        color: white;
+        padding: 10px 15px;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+
+        .btn:hover {
+            background-color: #2980b9;
+        }
+
+    .back-link {
+        display: inline-block;
+        margin-top: 20px;
+        color: #c0392b;
+        text-decoration: none;
+        font-size: 14px;
+        transition: color 0.3s;
+    }
+
+        .back-link:hover {
+            color: #a32121;
+        }
+
+    .success-message {
+        color: #27ae60;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .hidden {
+        display: none;
+    }
+</style>
+
+<div class="container">
+    <h2>Student Courses</h2>
+    <h4>Student Information</h4>
+    <p><strong>Name:</strong> @Model.FirstName @Model.LastName</p>
+    <p><strong>Student ID:</strong> @Model.StudentID</p>
+    <p><strong>Department:</strong> @Model.Department</p>
+
+    <hr />
+
+    @if (Model.StudentCourseSelections == null || !Model.StudentCourseSelections.Any())
+    {
+        <div class="alert">
+            No courses have been selected by this student.
+        </div>
+    }
+    else
+    {
+        <h4>Selected Courses</h4>
+
+        <form asp-action="ApproveStudentsCourses" asp-controller="Advisors" method="post" id="approveForm">
+            <input type="hidden" name="id" value="@Model.AdvisorID" />
+            <table>
+                <thead>
+                    <tr>
+                        <th>Course Name</th>
+                        <th>Credit</th>
+                        <th>Mandatory</th>
+                        <th>Selection Date</th>
+                        <th>Approve?</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var courseSelection in Model.StudentCourseSelections)
+                    {
+                        <tr>
+                            <td>@courseSelection.Course.CourseName</td>
+                            <td>@courseSelection.Course.Credit</td>
+                            <td>@(courseSelection.Course.IsMandatory ? "Yes" : "No")</td>
+                            <td>@courseSelection.SelectionDate.ToString("d")</td>
+                            <td>
+                                <input type="checkbox" name="SelectedCourseIds" value="@courseSelection.CourseID" @(courseSelection.IsApproved ? "checked" : "") />
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <div class="form-group">
+                <button type="submit" id="submitBtn" class="btn">Approve</button>
+            </div>
+        </form>
+        <a href="@Url.Action("ApproveCourses", "Advisors", new { id = Model.AdvisorID })" class="back-link">Back</a>
+
+        <div id="successMessage" class="success-message hidden">
+            Courses approved successfully!
+        </div>
+    }
+</div>
+
+
+<script>
+
+
+    
+    document.getElementById("approveForm").onsubmit = function (event) {
+        
+        var selectedCheckboxes = document.querySelectorAll('input[name="SelectedCourseIds"]:checked');
+
+        
+        var uncheckedCheckboxes = document.querySelectorAll('input[name="SelectedCourseIds"]:not(:checked)');
+        uncheckedCheckboxes.forEach(function (checkbox) {
+            
+            var courseRow = checkbox.closest('tr');
+            var courseId = checkbox.value;
+
+            
+            var isApprovedInput = document.createElement('input');
+            isApprovedInput.type = 'hidden';
+            isApprovedInput.name = 'UncheckedCourseIds'; 
+            isApprovedInput.value = courseId + ":" + false;  
+            courseRow.appendChild(isApprovedInput);
+        });
+
+        
+    }
+
+    
+
+</script>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        
+        var successMessage = "@TempData["Success"]";
+        if (successMessage) {
+            showSuccessMessage();
+        }
+    });
+
+    function showSuccessMessage() {
+        var successMessageElement = document.getElementById("successMessage");
+        successMessageElement.classList.remove("hidden");
+        successMessageElement.textContent = "@TempData["Success"]";
+
+        
+        setTimeout(function () {
+            successMessageElement.classList.add("hidden");
+        }, 3000);
+    }
+
+</script>
+

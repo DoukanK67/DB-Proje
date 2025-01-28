@@ -1,8 +1,8 @@
 ﻿
-using StudentIMS.Models;
+using DB_proje1.Models;
 using System.ComponentModel.DataAnnotations;
 
-namespace SmartCourseSelectorWeb.Models
+namespace DB_proje1.Models
 {
     public class Course
     {

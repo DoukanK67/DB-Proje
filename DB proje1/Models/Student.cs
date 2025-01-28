@@ -1,7 +1,7 @@
-﻿using StudentIMS.Models;
+﻿using DB_proje1.Models;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace SmartCourseSelectorWeb.Models
+namespace DB_proje1.Models
 {
     public class Student
     {

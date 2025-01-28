@@ -1,6 +1,6 @@
-﻿using SmartCourseSelectorWeb.Models;
+﻿using DB_proje1.Models;
 
-namespace StudentIMS.Models
+namespace DB_proje1.Models
 {
     public class StudentAndCourse
     {

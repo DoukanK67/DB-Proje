@@ -1,8 +1,9 @@
 using System.Diagnostics;
+using DB_proje1.Models;
 using Microsoft.AspNetCore.Mvc;
-using SmartCourseSelectorAPI.Models;
+using DB_proje1.Models;
 
-namespace SmartCourseSelectorAPI.Controllers
+namespace DB_proje1.Controllers
 {
     public class HomeController : Controller
     {
@@ -30,4 +31,5 @@ namespace SmartCourseSelectorAPI.Controllers
         }
     }
 }
+
 

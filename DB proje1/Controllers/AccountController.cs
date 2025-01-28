@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using SmartCourseSelectorWeb.Models;
+using DB_proje1.Models;
 
-namespace SmartCourseSelectorWeb.Controllers
+namespace DB_proje1.Controllers
 {
     [Controller]
     public class AccountController : Controller

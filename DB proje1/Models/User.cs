@@ -1,4 +1,4 @@
-﻿namespace SmartCourseSelectorWeb.Models
+﻿namespace DB_proje1.Models
 {
     public class User
     {

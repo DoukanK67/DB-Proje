@@ -1,0 +1,438 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\Advisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Models\\Advisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\UnapprovedSelections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Models\\UnapprovedSelections.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\UnApprovedSelection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Models\\UnApprovedSelection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\Transcript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Models\\Transcript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\StudentCourseSelection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Models\\StudentCourseSelection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\SubmitCoursesRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Models\\SubmitCoursesRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\StudentAndCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Models\\StudentAndCourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Models\\Student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\SelectionHistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Models\\SelectionHistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\LoginViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Models\\LoginViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\ForgotPasswordViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Models\\ForgotPasswordViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Models\\ErrorViewModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\CourseQuota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Models\\CourseQuota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\Course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Models\\Course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Models\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Migrations\\Migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Migrations\\Migration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Migrations\\Migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Migrations\\Migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Controllers\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Controllers\\StudentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Controllers\\AdvisorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Controllers\\AdvisorController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Controllers\\CourseController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Controllers\\CourseController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Controllers\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Views\\Home\\HomePage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Views\\Home\\HomePage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Views\\Administration\\Administration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DB proje1\\Views\\Administration\\Administration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentCourseSelection.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\StudentCourseSelection.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Models\\StudentCourseSelection.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\StudentCourseSelection.cs",
+              "RelativeToolTip": "DB proje1\\Models\\StudentCourseSelection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:06:06.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transcript.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\Transcript.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Models\\Transcript.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\Transcript.cs",
+              "RelativeToolTip": "DB proje1\\Models\\Transcript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:06:15.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnApprovedSelection.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\UnApprovedSelection.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Models\\UnApprovedSelection.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\UnApprovedSelection.cs",
+              "RelativeToolTip": "DB proje1\\Models\\UnApprovedSelection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:06:40.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnapprovedSelections.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\UnapprovedSelections.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Models\\UnapprovedSelections.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\UnapprovedSelections.cs",
+              "RelativeToolTip": "DB proje1\\Models\\UnapprovedSelections.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:06:41.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\User.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\User.cs",
+              "RelativeToolTip": "DB proje1\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:06:42.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Advisor.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\Advisor.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Models\\Advisor.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\Advisor.cs",
+              "RelativeToolTip": "DB proje1\\Models\\Advisor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:02:00.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubmitCoursesRequest.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\SubmitCoursesRequest.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Models\\SubmitCoursesRequest.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\SubmitCoursesRequest.cs",
+              "RelativeToolTip": "DB proje1\\Models\\SubmitCoursesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:06:14.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentAndCourse.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\StudentAndCourse.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Models\\StudentAndCourse.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\StudentAndCourse.cs",
+              "RelativeToolTip": "DB proje1\\Models\\StudentAndCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:06:05.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\Student.cs",
+              "RelativeToolTip": "DB proje1\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:06:04.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SelectionHistory.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\SelectionHistory.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Models\\SelectionHistory.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\SelectionHistory.cs",
+              "RelativeToolTip": "DB proje1\\Models\\SelectionHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:06:02.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "DB proje1\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:05:59.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ForgotPasswordViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\ForgotPasswordViewModel.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Models\\ForgotPasswordViewModel.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\ForgotPasswordViewModel.cs",
+              "RelativeToolTip": "DB proje1\\Models\\ForgotPasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:05:57.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DB proje1\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:05:55.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseQuota.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\CourseQuota.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Models\\CourseQuota.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\CourseQuota.cs",
+              "RelativeToolTip": "DB proje1\\Models\\CourseQuota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:05:51.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\Course.cs",
+              "RelativeToolTip": "DB proje1\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:05:49.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DB proje1\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:05:38.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Migration2.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Migrations\\Migration2.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Migrations\\Migration2.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Migrations\\Migration2.cs",
+              "RelativeToolTip": "DB proje1\\Migrations\\Migration2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:37:01.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Migration1.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Migrations\\Migration1.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Migrations\\Migration1.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Migrations\\Migration1.cs",
+              "RelativeToolTip": "DB proje1\\Migrations\\Migration1.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:32:32.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "DB proje1\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:22:34.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdvisorController.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Controllers\\AdvisorController.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Controllers\\AdvisorController.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Controllers\\AdvisorController.cs",
+              "RelativeToolTip": "DB proje1\\Controllers\\AdvisorController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T20:20:33.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "DB proje1\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T11:00:36.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "DB proje1\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:59:39.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DB proje1\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:58:38.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DB proje1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DB proje1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:49:46.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Views\\Home\\HomePage.cshtml",
+              "RelativeDocumentMoniker": "DB proje1\\Views\\Home\\HomePage.cshtml",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Views\\Home\\HomePage.cshtml",
+              "RelativeToolTip": "DB proje1\\Views\\Home\\HomePage.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T20:41:15.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Administration.cshtml",
+              "DocumentMoniker": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Views\\Administration\\Administration.cshtml",
+              "RelativeDocumentMoniker": "DB proje1\\Views\\Administration\\Administration.cshtml",
+              "ToolTip": "C:\\Users\\112ma\\Documents\\GitHub\\DB-Proje\\DB proje1\\Views\\Administration\\Administration.cshtml",
+              "RelativeToolTip": "DB proje1\\Views\\Administration\\Administration.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-21T20:41:11.212Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

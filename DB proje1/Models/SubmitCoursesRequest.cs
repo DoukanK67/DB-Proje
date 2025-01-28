@@ -1,4 +1,4 @@
-﻿namespace StudentIMS.Models
+﻿namespace DB_proje1.Models
 {
     public class SubmitCoursesRequest
     {
